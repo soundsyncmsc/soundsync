@@ -1,0 +1,110 @@
+Explored Apps:
+==============
+
+Sound Seeder:
+ We need two apps to share the speaker
+
+
+
+
+Musical ly:
+ Its a wrg selection and it needs login
+
+
+
+
+SynSong Play:
+ Needs data Connection
+
+
+
+
+Wirelesss Music Video:{Weezler}
+ Taking more time to get in.
+
+
+
+
+Wifi Audio:
+ Only for PC to Android 
+ Needs additional software for PC
+
+
+
+
+SlipStream:
+ Working but needs clarification
+
+
+
+
+Jam Sync:
+ Time Consuming, not working
+
+
+
+
+Group Music:
+ Worst, Fake one
+
+
+
+
+Bluetooth:
+ All failure,...
+ Not User friendly and to work on these things we need to read the help manu tooo
+
+
+
+
+Chorus:
+ Okie Kind
+ Didnt work normally
+
+
+
+
+Group Music:
+ Needs data connecton    
+
+
+
+
+Music Group:
+ Time consuming needs often restart of the app
+
+youtube 
+
+
+Play music :
+ Only shareing the online contents
+
+
+
+
+
+Sound Seeder Player:
+ Good One,
+ Controlling others sound level too [Superb] 
+
+
+
+
+Objective of Our one:
+ 
+----------------------
+==>Should be working in one touch
+ 
+
+==>Control can be to one or many persons
+ 
+
+==>How to use menu should be there
+ 
+
+==>Needs initial guidence popup
+ 
+
+==>Authentication for connecting
+ 
+etc...
